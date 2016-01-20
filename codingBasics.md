@@ -27,13 +27,13 @@ The Transportation Analogy
 
 Consider your options for transportation. Generally speaking there's a tradeoff between how easy it is to use and how much control you have.
 
-- Busses are extremely easy: You get on, sit down, wait, and get off.
+- Buses are extremely easy: You get on, sit down, wait, and get off.
 - Cars require a lot more - you need to learn how to drive and successfully use those skills every time you go somewhere
 - However, the benefits of cars are obvious: Point-to-point travel on your schedule.
 
 As we learn how to code we are giving up convenience but gaining power and control. A lot of power and control.
 
-Busses
+Buses
 ============================================
 
 <br>
@@ -45,7 +45,7 @@ Busses
 
 - Excel
 - SPSS
-- Don't discount busses. If they go where you want to go they are incredibly convenient!
+- Don't discount buses. If they go where you want to go they are incredibly convenient!
 
 Trains
 ==============================
